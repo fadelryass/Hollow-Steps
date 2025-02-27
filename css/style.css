@@ -380,7 +380,7 @@ footer {
 }
 
 .about-image-1{
-    background-image: url(assets/Picture_1.jpg);
+    background-image: url( assets/Picture_1.jpg);
     background-size: cover; /* Ensure the image covers the entire element */
     background-position: center; /* Center the image */
     height: 300px;
@@ -389,7 +389,7 @@ footer {
     border-radius: 10px;
 }
 .about-image-2{
-    background-image: url(assets/Picture_2.jpg);
+    background-image: url( assets/Picture_2.jpg);
     background-size: cover; /* Ensure the image covers the entire element */
     background-position: center; /* Center the image */
     height: 300px;
@@ -399,7 +399,7 @@ footer {
 }
 
 .about-image-3{
-    background-image: url(assets/Picture_3.jpg);
+    background-image: url( assets/Picture_3.jpg);
     background-size: cover; /* Ensure the image covers the entire element */
     background-position: center; /* Center the image */
     height: 300px;
@@ -408,7 +408,7 @@ footer {
     border-radius: 10px;
 }
 .about-image-4{
-    background-image: url(assets/Picture_4.jpg);
+    background-image: url( assets/Picture_4.jpg);
     background-size: cover; /* Ensure the image covers the entire element */
     background-position: center; /* Center the image */
     height: 300px;
